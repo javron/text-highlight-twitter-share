@@ -1,0 +1,19 @@
+{
+    "name": "text-highlight-twitter-share",
+    "version": "1.0.0",
+    "description": "A REST API and JavaScript library for sharing highlighted text as quotes on Twitter",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "highlight",
+      "text",
+      "twitter",
+      "share",
+      "quote"
+    ],
+    "author": "",
+    "license": "ISC"
+  }
+  

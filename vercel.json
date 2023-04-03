@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/public/index.html" },
+      { "source": "/quoteSharer.js", "destination": "/public/quoteSharer.js" },
+      { "source": "/quoteSharer.css", "destination": "/public/quoteSharer.css" },
+      { "source": "/output.css", "destination": "/public/output.css" }
+    ]
+  }
+  
